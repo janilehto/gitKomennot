@@ -1,0 +1,2 @@
+# gitKomennot
+Peruskäskyt
