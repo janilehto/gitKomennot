@@ -1,1 +1,5 @@
-Testi
+git add .
+
+git commit -m "mitä on tehty"
+
+git push origin main
